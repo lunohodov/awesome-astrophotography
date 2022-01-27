@@ -15,6 +15,7 @@ A curated list of awesomeness related to astrophotography.
   - [Image Calibration and Stacking](#image-calibration-and-stacking)
   - [Image Processing](#image-processing)
   - [Planetarium](#planetarium)
+  - [Planning](#planning)
   - [Other](#other)
 - [YouTube Channels](#youtube-channels)
 - [Reference](#reference)
@@ -79,6 +80,10 @@ A curated list of awesomeness related to astrophotography.
 
 * [Cartes du Ciel](https://www.ap-i.net/skychart/doku.php?id=en/start)
 * [Stellarium (web)](https://stellarium-web.org)
+
+### Planning
+
+* [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) – Plan your framing.
 
 ### Other
 
