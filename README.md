@@ -44,6 +44,7 @@ A curated list of awesomeness related to astrophotography.
 
 ## Tutorials
 
+* [Astrophotography RGB histogram in nine minutes](https://www.youtube.com/watch?v=9rAoJ-VG860)
 * [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) – Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
 * [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
 * [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) – A complete walk-through. From planning to post-processing.
