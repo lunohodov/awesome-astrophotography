@@ -26,9 +26,9 @@ A curated list of awesomeness related to astrophotography.
 
 ## Articles
 
-* [Agena Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/guides/cameras/zwo-astronomy-cameras-buyers-guide.html) – ZWO has a diverse product line. This guide will help you make the right choice.
-* [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) – One of the best explanations to CCS vs. CMOS camera sensors.
-* [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) – A detailed comparison of the pre-processing features.
+- [Agena Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/guides/cameras/zwo-astronomy-cameras-buyers-guide.html) – ZWO has a diverse product line. This guide will help you make the right choice.
+- [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) – One of the best explanations to CCS vs. CMOS camera sensors.
+- [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) – A detailed comparison of the pre-processing features.
 
 **[↑ back to top](#contents)**
 
@@ -36,8 +36,8 @@ A curated list of awesomeness related to astrophotography.
 
 ## Books
 
-* [Astrophotography is Easy!: Basics for Beginners (The Patrick Moore Practical Astronomy Series)](https://www.goodreads.com/book/show/56053741-astrophotography-is-easy)
-* [The Astrophotography Manual: A Practical and Scientific Approach to Deep Sky Imaging](https://www.goodreads.com/book/show/37301142-the-astrophotography-manual)
+- [Astrophotography is Easy!: Basics for Beginners (The Patrick Moore Practical Astronomy Series)](https://www.goodreads.com/book/show/56053741-astrophotography-is-easy)
+- [The Astrophotography Manual: A Practical and Scientific Approach to Deep Sky Imaging](https://www.goodreads.com/book/show/37301142-the-astrophotography-manual)
 
 **[↑ back to top](#contents)**
 
@@ -45,11 +45,11 @@ A curated list of awesomeness related to astrophotography.
 
 ## Tutorials
 
-* [Astrophotography RGB histogram in nine minutes](https://www.youtube.com/watch?v=9rAoJ-VG860)
-* [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) – Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
-* [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
-* [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) – A complete walk-through. From planning to post-processing.
-* [Andromeda Galaxy with only a Camera, Lens, & Tripod](https://www.youtube.com/watch?v=pXcRKoxTPVg) – A comprehensive step-by-step guide. Includes a follow-up videos on post-processing the images in different apps.
+- [Astrophotography RGB histogram in nine minutes](https://www.youtube.com/watch?v=9rAoJ-VG860)
+- [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) – Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
+- [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
+- [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) – A complete walk-through. From planning to post-processing.
+- [Andromeda Galaxy with only a Camera, Lens, & Tripod](https://www.youtube.com/watch?v=pXcRKoxTPVg) – A comprehensive step-by-step guide. Includes a follow-up videos on post-processing the images in different apps.
 
 **[↑ back to top](#contents)**
 
@@ -59,37 +59,37 @@ A curated list of awesomeness related to astrophotography.
 
 ### Acquisition
 
-* [APT](https://www.astrophotography.app) – The Swiss army knife for your astro imaging sessions.
-* [NINA](https://nighttime-imaging.eu) – Free and very powerful astrophotography imaging suite.
-* [Nebulosity](http://www.stark-labs.com/nebulosity.html) – Affordable, powerful, and easy to use astrophotography software.
-* [Sequence Generator Pro](https://www.sequencegeneratorpro.com) – The classic fully automated night sky imaging.
-* [Voyager](https://software.starkeeper.it) – User-friendly system integration and astrophotography automation software.
+- [APT](https://www.astrophotography.app) – The Swiss army knife for your astro imaging sessions.
+- [NINA](https://nighttime-imaging.eu) – Free and very powerful astrophotography imaging suite.
+- [Nebulosity](http://www.stark-labs.com/nebulosity.html) – Affordable, powerful, and easy to use astrophotography software.
+- [Sequence Generator Pro](https://www.sequencegeneratorpro.com) – The classic fully automated night sky imaging.
+- [Voyager](https://software.starkeeper.it) – User-friendly system integration and astrophotography automation software.
 
 ### Guiding
 
-* [PHD2](https://openphdguiding.org) – Arguably THE guiding software. Free and open source.
+- [PHD2](https://openphdguiding.org) – Arguably THE guiding software. Free and open source.
 
 ### Image Processing
 
-* [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) – Registering, stacking, and simple post-processing
-* [PixInsight](https://pixinsight.com) – Advanced image processing software platform. Very powerful but the user interface is intimidating.
-* [Siril](https://siril.org) – Registering, stacking, and post-processing, specially tailored for noise reduction and improving the signal-to-noise ratio.
-* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) – Advanced and very powerful software for post-processing.
+- [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) – Registering, stacking, and simple post-processing
+- [PixInsight](https://pixinsight.com) – Advanced image processing software platform. Very powerful but the user interface is intimidating.
+- [Siril](https://siril.org) – Registering, stacking, and post-processing, specially tailored for noise reduction and improving the signal-to-noise ratio.
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) – Advanced and very powerful software for post-processing.
 
 ### Planetarium
 
-* [Cartes du Ciel](https://www.ap-i.net/skychart/doku.php?id=en/start)
-* [Stellarium (web)](https://stellarium-web.org)
+- [Cartes du Ciel](https://www.ap-i.net/skychart/doku.php?id=en/start)
+- [Stellarium (web)](https://stellarium-web.org)
 
 ### Planning
 
-* [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) – Plan your framing.
-* [Astronomy Tools](https://astronomy.tools/) – A tools suite with various calculators, field of view simulation, star chart, etc.
+- [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) – Plan your framing.
+- [Astronomy Tools](https://astronomy.tools/) – A tools suite with various calculators, field of view simulation, star chart, etc.
 
 ### Other
 
-* [FocusMax](https://www.ccdware.com/products/focusmax/index-2.html) – Accurate, automated and repeatable focusing.
-* [PhotoPills](https://www.photopills.com) – A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
+- [FocusMax](https://www.ccdware.com/products/focusmax/index-2.html) – Accurate, automated and repeatable focusing.
+- [PhotoPills](https://www.photopills.com) – A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
 
 **[↑ back to top](#contents)**
 
@@ -97,9 +97,9 @@ A curated list of awesomeness related to astrophotography.
 
 ## YouTube Channels
 
-* [AstroBackyard](https://www.youtube.com/c/AstroBackyard)
-* [Cuiv, The Lazy Geek](https://www.youtube.com/channel/UC65vvpQDX5rymeqrYt-Bb1g)
-* [Nebula Photos](https://www.youtube.com/channel/UCO_gBdHekc74feh0bWqKJ1Q)
+- [AstroBackyard](https://www.youtube.com/c/AstroBackyard)
+- [Cuiv, The Lazy Geek](https://www.youtube.com/channel/UC65vvpQDX5rymeqrYt-Bb1g)
+- [Nebula Photos](https://www.youtube.com/channel/UCO_gBdHekc74feh0bWqKJ1Q)
 
 **[↑ back to top](#contents)**
 
@@ -107,10 +107,10 @@ A curated list of awesomeness related to astrophotography.
 
 ## Reference
 
-* [Digital Camera Database](https://www.digicamdb.com) – A database holding sensor characteristics for a plethora of digital cameras.
-* [Photons to Photos](https://www.photonstophotos.net) – Interactive charts with sensor data contributed by people around the world.
-* [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
-* [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
+- [Digital Camera Database](https://www.digicamdb.com) – A database holding sensor characteristics for a plethora of digital cameras.
+- [Photons to Photos](https://www.photonstophotos.net) – Interactive charts with sensor data contributed by people around the world.
+- [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
+- [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
 
 **[↑ back to top](#contents)**
 
@@ -118,8 +118,8 @@ A curated list of awesomeness related to astrophotography.
 
 ## Astronomy as a Service (AaaS)
 
-* [Pixel Skies](https://www.pixelskiesastro.com)
-* [RoboScopes](https://www.roboscopes.com)
+- [Pixel Skies](https://www.pixelskiesastro.com)
+- [RoboScopes](https://www.roboscopes.com)
 
 **[↑ back to top](#contents)**
 
@@ -127,9 +127,9 @@ A curated list of awesomeness related to astrophotography.
 
 ## Community
 
-* [Astrobin](https://www.astrobin.com) – Social image hosting dedicated to astrophotography.
-* [Cloudy Nights](https://www.cloudynights.com)
-* [Stargazers Lounge](https://stargazerslounge.com)
-* [Telescopius](https://telescopius.com) – Free planning and image hosting for astrophotographers.
+- [Astrobin](https://www.astrobin.com) – Social image hosting dedicated to astrophotography.
+- [Cloudy Nights](https://www.cloudynights.com)
+- [Stargazers Lounge](https://stargazerslounge.com)
+- [Telescopius](https://telescopius.com) – Free planning and image hosting for astrophotographers.
 
 **[↑ back to top](#contents)**
