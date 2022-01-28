@@ -1,4 +1,4 @@
-name: Links (Fail Fast)
+name: CI
 
 on:
   push:
