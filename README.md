@@ -4,7 +4,7 @@ A curated list of awesomeness related to astrophotography.
 
 
 
-### Contents
+## Contents
 
 - [Articles](#articles)
 - [Books](#books)
