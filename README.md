@@ -1,4 +1,4 @@
-# Awesome Astrophotography
+# Awesome Astrophotography [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesomeness related to astrophotography.
 
