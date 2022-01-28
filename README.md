@@ -96,7 +96,7 @@ A curated list of awesomeness related to astrophotography.
 
 ## Reference
 
-- [Digital Camera Database](https://www.digicamdb.com) – A database holding sensor characteristics for a plethora of digital cameras.
+- [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
