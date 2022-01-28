@@ -71,7 +71,7 @@ A curated list of awesomeness related to astrophotography.
 
 ### Image Processing
 
-- [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) - Registering, stacking, and simple post-processing
+- [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) - Registering, stacking, and simple post-processing.
 - [PixInsight](https://pixinsight.com) - Advanced image processing software platform. Very powerful but the user interface is intimidating.
 - [Siril](https://siril.org) - Registering, stacking, and post-processing, specially tailored for noise reduction and improving the signal-to-noise ratio.
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Advanced and very powerful software for post-processing.
@@ -107,7 +107,7 @@ A curated list of awesomeness related to astrophotography.
 
 ## Reference
 
-- [Digital Camera Database](https://www.digicamdb.com) – A database holding sensor characteristics for a plethora of digital cameras.
+- [Digital Camera Database](https://www.digicamdb.com) – A database holding sensor characteristics for a plethora of digital cameras.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
