@@ -12,7 +12,6 @@ A curated list of awesomeness related to astrophotography.
 - [Software](#software)
   - [Acquisition](#acquisition)
   - [Guiding](#guiding)
-  - [Image Calibration and Stacking](#image-calibration-and-stacking)
   - [Image Processing](#image-processing)
   - [Planetarium](#planetarium)
   - [Planning](#planning)
