@@ -30,16 +30,12 @@ A curated list of awesomeness related to astrophotography.
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCS vs. CMOS camera sensors.
 - [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
 
-**[↑ back to top](#contents)**
-
 
 
 ## Books
 
 - [Astrophotography is Easy!: Basics for Beginners (The Patrick Moore Practical Astronomy Series)](https://www.goodreads.com/book/show/56053741-astrophotography-is-easy)
 - [The Astrophotography Manual: A Practical and Scientific Approach to Deep Sky Imaging](https://www.goodreads.com/book/show/37301142-the-astrophotography-manual)
-
-**[↑ back to top](#contents)**
 
 
 
@@ -50,8 +46,6 @@ A curated list of awesomeness related to astrophotography.
 - [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
 - [Andromeda Galaxy with only a Camera, Lens, & Tripod](https://www.youtube.com/watch?v=pXcRKoxTPVg) - A comprehensive step-by-step guide. Includes a follow-up videos on post-processing the images in different apps.
-
-**[↑ back to top](#contents)**
 
 
 
@@ -91,8 +85,6 @@ A curated list of awesomeness related to astrophotography.
 - [FocusMax](https://www.ccdware.com/products/focusmax/index-2.html) - Accurate, automated and repeatable focusing.
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
 
-**[↑ back to top](#contents)**
-
 
 
 ## YouTube Channels
@@ -100,8 +92,6 @@ A curated list of awesomeness related to astrophotography.
 - [AstroBackyard](https://www.youtube.com/c/AstroBackyard)
 - [Cuiv, The Lazy Geek](https://www.youtube.com/channel/UC65vvpQDX5rymeqrYt-Bb1g)
 - [Nebula Photos](https://www.youtube.com/channel/UCO_gBdHekc74feh0bWqKJ1Q)
-
-**[↑ back to top](#contents)**
 
 
 
@@ -112,16 +102,12 @@ A curated list of awesomeness related to astrophotography.
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
 
-**[↑ back to top](#contents)**
-
 
 
 ## Astronomy as a Service (AaaS)
 
 - [Pixel Skies](https://www.pixelskiesastro.com)
 - [RoboScopes](https://www.roboscopes.com)
-
-**[↑ back to top](#contents)**
 
 
 
@@ -132,4 +118,3 @@ A curated list of awesomeness related to astrophotography.
 - [Stargazers Lounge](https://stargazerslounge.com)
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 
-**[↑ back to top](#contents)**
