@@ -28,6 +28,7 @@ A curated list of awesomeness related to astrophotography.
 - [Agena Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/guides/cameras/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCS vs. CMOS camera sensors.
 - [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
+- [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/)
 
 
 
