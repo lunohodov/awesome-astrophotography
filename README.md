@@ -46,6 +46,7 @@ A curated list of awesomeness related to astrophotography.
 - [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
 - [Andromeda Galaxy with only a Camera, Lens, & Tripod](https://www.youtube.com/watch?v=pXcRKoxTPVg) - A comprehensive step-by-step guide. Includes a follow-up videos on post-processing the images in different apps.
+- [Capturing Galaxyset](https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset) - A detailed tutorial on how to plan, execute and post-process a deepscape of the Andromeda galaxy aligned with a mountain in Southern Colorado.
 
 
 
