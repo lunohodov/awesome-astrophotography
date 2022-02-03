@@ -1,11 +1,11 @@
 name: CI
 
 on:
-  push:
   pull_request:
+    branches: [main]
 
 jobs:
-  linkChecker:
+  link_checker:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,3 +14,11 @@ jobs:
         uses: lycheeverse/lychee-action@v1.2.0
         with:
           fail: true
+
+  awesome_lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
