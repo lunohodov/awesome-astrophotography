@@ -102,10 +102,11 @@ A curated list of awesomeness related to astrophotography.
 
 ## Reference
 
-- [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
-- [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
+- [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
+- [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
+- [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 
 
 
