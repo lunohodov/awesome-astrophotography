@@ -9,6 +9,7 @@ A curated list of awesomeness related to astrophotography.
 - [Articles](#articles)
 - [Books](#books)
 - [Tutorials](#tutorials)
+- [Presentations](#presentations)
 - [Software](#software)
   - [Acquisition](#acquisition)
   - [Guiding](#guiding)
@@ -49,6 +50,12 @@ A curated list of awesomeness related to astrophotography.
 - [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
 - [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
+
+
+
+## Presentations
+
+- [Beauty and the Beholder](https://www.youtube.com/watch?v=SPFsoO0ZWeg) - On the hidden stories in astro-images and how to tell them. A truly inspirational message from famous astrophotographer Adam Block.
 
 
 
