@@ -50,6 +50,7 @@ A curated list of awesomeness related to astrophotography.
 - [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
 - [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
+- [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 
 
 
