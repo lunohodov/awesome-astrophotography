@@ -1,8 +1,6 @@
-# Awesome Astrophotography [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Astrophotography [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![CI](https://github.com/lunohodov/awesome-astrophotography/actions/workflows/main.yml/badge.svg)](https://github.com/lunohodov/awesome-astrophotography/actions/workflows/main.yml)
 
 A curated list of awesomeness related to astrophotography.
-
-
 
 ## Contents
 
