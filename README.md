@@ -32,6 +32,7 @@ A curated list of awesomeness related to astrophotography.
 - [How to Set the Correct Back Focus](https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus) - An easy to follow guide on what back focus is and how to set it.
 - [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/)
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCS vs. CMOS camera sensors.
+- [The best solution of 55mm back focal length](https://astronomy-imaging-camera.com/tutorials/best-back-focus-length-solutions-55mm.html) - Guidance on how to reach the 55mm back focal length with ASI cameras
 
 
 
