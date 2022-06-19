@@ -28,6 +28,8 @@ A curated list of awesomeness related to astrophotography.
 - [Autoguiding](https://astrobackyard.com/autoguiding/) - An introduction to auto-guiding.
 - [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
 - [Drift Alignment by Robert Vice (D.A.R.V)](https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760) - Accurate alignment in just a matter of minutes.
+- [Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?](https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider) - Compares the two guiding options in details.
+- [How to Set the Correct Back Focus](https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus) - An easy to follow guide on what back focus is and how to set it.
 - [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/)
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCS vs. CMOS camera sensors.
 
