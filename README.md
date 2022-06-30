@@ -114,6 +114,7 @@ A curated list of awesomeness related to astrophotography.
 
 ## Reference
 
+- [Calibration Frames Cheat-Sheet](https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view)
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
 - [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
