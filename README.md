@@ -49,6 +49,7 @@ A curated list of awesomeness related to astrophotography.
 - [Andromeda Galaxy with only a Camera, Lens, & Tripod](https://www.youtube.com/watch?v=pXcRKoxTPVg) - A comprehensive step-by-step guide. Includes a follow-up videos on post-processing the images in different apps.
 - [Astrophotography RGB histogram in nine minutes](https://www.youtube.com/watch?v=9rAoJ-VG860)
 - [Capturing Galaxyset](https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset) - A detailed tutorial on how to plan, execute and post-process a deepscape of the Andromeda galaxy aligned with a mountain in Southern Colorado.
+- [Filters for Deep Sky Astrophotography](https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo) - A video series that kicks off with a gentle introduction to filters and closes down comparing the most popular ones.
 - [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 - [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
