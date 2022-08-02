@@ -102,7 +102,7 @@ A curated list of awesomeness related to astrophotography.
 
 ### Other
 
-- [FocusMax](https://www.ccdware.com/products/focusmax/index-2.html) - Accurate, automated and repeatable focusing.
+- [FocusMax](https://ccdware.com/focusmax_overview/) - Accurate, automated and repeatable focusing.
 
 
 
