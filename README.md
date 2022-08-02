@@ -47,6 +47,7 @@ A curated list of awesomeness related to astrophotography.
 ## Tutorials
 
 - [A Beginner Guide to Night Photography](https://www.scottaspinall.com/beginner-guide-to-night-photography/) - If you're interested in night photography and particularly deepscapes, this guide hits the spot with it's succinctness.
+- [Adam Block's PixInsight video series](https://www.adamblockstudios.com/categories/PixInsight) - An extensive collection of video lessons covering both the fundamental and advanced use of PixInsight.
 - [Andromeda Galaxy with only a Camera, Lens, & Tripod](https://www.youtube.com/watch?v=pXcRKoxTPVg) - A comprehensive step-by-step guide. Includes a follow-up videos on post-processing the images in different apps.
 - [Astrophotography RGB histogram in nine minutes](https://www.youtube.com/watch?v=9rAoJ-VG860)
 - [Capturing Galaxyset](https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset) - A detailed tutorial on how to plan, execute and post-process a deepscape of the Andromeda galaxy aligned with a mountain in Southern Colorado.
