@@ -31,6 +31,7 @@ A curated list of awesomeness related to astrophotography.
 - [Drift Alignment by Robert Vice (D.A.R.V)](https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760) - Accurate alignment in just a matter of minutes.
 - [Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?](https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider) - Compares the two guiding options in details.
 - [How to Set the Correct Back Focus](https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus) - An easy to follow guide on what back focus is and how to set it.
+- [Selecting a Guide Scope and Autoguiding Camera for Astrophotography](https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html)
 - [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/)
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCS vs. CMOS camera sensors.
 - [The best solution of 55mm back focal length](https://astronomy-imaging-camera.com/tutorials/best-back-focus-length-solutions-55mm.html) - Guidance on how to reach the 55mm back focal length with ASI cameras.
