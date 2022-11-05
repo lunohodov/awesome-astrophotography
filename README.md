@@ -24,12 +24,13 @@ A curated list of awesomeness related to astrophotography.
 
 ## Articles
 
-- [Agena Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/guides/cameras/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [Autoguiding](https://astrobackyard.com/autoguiding/) - An introduction to auto-guiding.
+- [Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/guides/cameras/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [Cable Management Recommendations](https://pegasusastro.com/cable-management-recommendations/) - Some solid advice on cables in an astrophotography setup.
 - [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
 - [Drift Alignment by Robert Vice (D.A.R.V)](https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760) - Accurate alignment in just a matter of minutes.
 - [Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?](https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider) - Compares the two guiding options in details.
+- [Guide to Focal Reducers for Astronomy](https://agenaastro.com/articles/focal-reducers-guide.html) - How focal reducers work, what types are there, and how to use them.
 - [How to Set the Correct Back Focus](https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus) - An easy to follow guide on what back focus is and how to set it.
 - [Selecting a Guide Scope and Autoguiding Camera for Astrophotography](https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html)
 - [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/)
