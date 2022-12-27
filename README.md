@@ -126,6 +126,7 @@ A curated list of awesomeness related to astrophotography.
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
+- [Rouzastro equipment reviews](https://rouzastro.com/reviews/) - A growing list of equipment reviews. The experiences and results may prove useful for those looking at new gear.
 
 
 
