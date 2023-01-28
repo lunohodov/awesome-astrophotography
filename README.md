@@ -124,6 +124,7 @@ A curated list of awesomeness related to astrophotography.
 - [Calibration Frames Cheat-Sheet](https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view) ([cached version](assets/docs/calibration-frames-cheatsheet.pdf))
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
 - [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
+- [IDAS filter comparison](https://www.cloudynights.com/topic/797739-idas-filter-comparison-test-report/?p=11487347) - CloudyNights forum member Jim Thompson tests and compares a large selection of IDAS brand filters. ([cached version](assets/docs/idas-test-report.pdf))
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
