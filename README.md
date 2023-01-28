@@ -86,6 +86,7 @@ A curated list of awesomeness related to astrophotography.
 ### Image Processing
 
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Advanced and very powerful software for post-processing.
+- [BlurXTerminator](https://www.rc-astro.com/resources/BlurXTerminator/) - An AI based deconvolution tool. Currently only available as a process module plug-in for PixInsight.
 - [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) - Registering, stacking, and simple post-processing.
 - [PixInsight](https://pixinsight.com) - Advanced image processing software platform. Very powerful but the user interface is intimidating.
 - [Siril](https://siril.org) - Registering, stacking, and post-processing, specially tailored for noise reduction and improving the signal-to-noise ratio.
