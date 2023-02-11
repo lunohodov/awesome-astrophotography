@@ -56,6 +56,7 @@ A curated list of awesomeness related to astrophotography.
 - [Capturing Galaxyset](https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset) - A detailed tutorial on how to plan, execute and post-process a deepscape of the Andromeda galaxy aligned with a mountain in Southern Colorado.
 - [Filters for Deep Sky Astrophotography](https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo) - A video series that kicks off with a gentle introduction to filters and closes down comparing the most popular ones.
 - [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
+- [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of "The Deep-Sky Imaging Primer", has you covered.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 - [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
