@@ -1,6 +1,10 @@
 # Awesome Astrophotography [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![CI](https://github.com/lunohodov/awesome-astrophotography/actions/workflows/main.yml/badge.svg)](https://github.com/lunohodov/awesome-astrophotography/actions/workflows/main.yml)
 
-A curated list of resources related to astrophotography. Please read the [contributing guideline](CONTRIBUTING.md) if you wish to contribute.
+A curated list of resources related to astrophotography.
+
+[Astrophotography](https://en.wikipedia.org/wiki/Astrophotography), also known as astronomical imaging, is the photography or imaging of astronomical objects, celestial events, or areas of the night sky.
+
+Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING.md) if you wish to contribute.
 
 ## Contents
 
