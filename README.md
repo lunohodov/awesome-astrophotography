@@ -134,11 +134,11 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 - [Astrobin's Heatmap of the Sky](https://www.astrobin.com/full/e4clel/0/) - An inspiring map showing the parts of the sky that the community on Astrobin photographs the most (or least).
 - [Calibration Frames Cheat-Sheet](https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view) ([cached version](assets/docs/calibration-frames-cheatsheet.pdf))
-- [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php)
+- [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php) - A list of Canon EOS models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
 - [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
 - [IDAS filter comparison](https://www.cloudynights.com/topic/797739-idas-filter-comparison-test-report/?p=11487347) - CloudyNights forum member Jim Thompson tests and compares a large selection of IDAS brand filters. ([cached version](assets/docs/idas-test-report.pdf))
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
-- [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
+- [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php) - A list of Nikon models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
 - [Online Narrowband RGB Combination Preview Tool](https://www.bintel.com.au/narrowband-preview-tool/index.php) - This tool allows you to upload black and white source images (filtered eg. Ha, Sii, Oiii or R, G, B), then shows every possible permutation for the various combinations/palettes.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Rouzastro equipment reviews](https://rouzastro.com/reviews/) - A growing list of equipment reviews. The experiences and results may prove useful for those looking at new gear.
@@ -147,9 +147,9 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 ## Astronomy as a Service (AaaS)
 
-- [Pixel Skies](https://www.pixelskiesastro.com)
-- [RoboScopes](https://www.roboscopes.com)
-- [Telescope Live](https://app.telescope.live)
+- [Pixel Skies](https://www.pixelskiesastro.com) - Custom built remote observatories with hosting options.
+- [RoboScopes](https://www.roboscopes.com) - Multi pier remote observatory with reasonable rates for the whole world to use. It offers hourly, syndicates & hosting piers for those who prefer to use their own equipment.
+- [Telescope Live](https://app.telescope.live) - Online access to a global network of 10 robotic telescopes with an ever-increasing image archive.
 
 
 
