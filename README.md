@@ -114,6 +114,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Astronomy Tools](https://astronomy.tools/) - A tools suite with various calculators, field of view simulation, star chart, etc.
 - [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) - Plan your framing.
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
+- [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 - [lightpollutionmap.info](https://www.lightpollutionmap.info) - This website uses satellite data to show light pollution related content.
 
 ### Other
@@ -158,5 +159,4 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Astrobin](https://www.astrobin.com) - Social image hosting dedicated to astrophotography.
 - [Cloudy Nights](https://www.cloudynights.com)
 - [Stargazers Lounge](https://stargazerslounge.com)
-- [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 
