@@ -38,9 +38,9 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [How to Set the Correct Back Focus](https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus) - An easy to follow guide on what back focus is and how to set it.
 - [Mastering Flat Frames: Gain matching](https://www.astroworldcreations.com/blog/understanding-flats-part-1-gain-matching) - This blog series by Willem Jan Drijfhout will take you on a deep dive into the topic of flat frames ([Part 2: Flat Panels compared](https://www.astroworldcreations.com/blog/understanding-flats-part-2-flat-panels-compared), and [Part 3: Bias, Flat-Darks and Conclusions](https://www.astroworldcreations.com/blog/understanding-flats-part3-conclusions)).
 - [Optical Glass Types](https://www.stellarvue.com/optical-glass-types/) - What makes a top-tier telescope? This article will clear up some common misconceptions.
-- [Selecting a Guide Scope and Autoguiding Camera for Astrophotography](https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html)
-- [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/)
-- [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCS vs. CMOS camera sensors.
+- [Selecting a Guide Scope and Autoguiding Camera for Astrophotography](https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html) - Choosing the right autoguiding equipment can be challenging. This guide will help with making the right decision.
+- [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/) - The Sky-Watcher AZ-GTI mount was never meant for astrophotography. Oh, the irony!
+- [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCD vs. CMOS camera sensors.
 - [The best solution of 55mm back focal length](https://astronomy-imaging-camera.com/tutorials/best-back-focus-length-solutions-55mm/) - Guidance on how to reach the 55mm back focal length with ASI cameras.
 
 
@@ -59,16 +59,16 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [A Beginner Guide to Night Photography](https://www.scottaspinall.com/beginner-guide-to-night-photography/) - If you're interested in night photography and particularly deepscapes, this guide hits the spot with it's succinctness.
 - [Adam Block's PixInsight video series](https://www.adamblockstudios.com/categories/PixInsight) - An extensive collection of video lessons covering both the fundamental and advanced use of PixInsight.
 - [Andromeda Galaxy with only a Camera, Lens, & Tripod](https://www.youtube.com/watch?v=pXcRKoxTPVg) - A comprehensive step-by-step guide. Includes a follow-up videos on post-processing the images in different apps.
-- [Astrophotography RGB histogram in nine minutes](https://www.youtube.com/watch?v=9rAoJ-VG860)
+- [Astrophotography RGB histogram in nine minutes](https://www.youtube.com/watch?v=9rAoJ-VG860) - A lightning explanation of what a histogram is.
 - [Capturing Galaxyset](https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset) - A detailed tutorial on how to plan, execute and post-process a deepscape of the Andromeda galaxy aligned with a mountain in Southern Colorado.
 - [Chris White's Guide to Fixing Tilt and Spacing](https://cdn.astrobin.com/ckeditor-files/14318/2023/2cc30650-6fda-40f4-8ea5-1b7cc5babfc2.pdf) - Annoying and hard to fix, tilt and spacing can ruin your imaging. This guide will help you eliminate them.
 - [Filters for Deep Sky Astrophotography](https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo) - A video series that kicks off with a gentle introduction to filters and closes down comparing the most popular ones.
 - [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
 - [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of "The Deep-Sky Imaging Primer", has you covered.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
-- [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html)
+- [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
-- [Stacking Multiple Sessions in DSS - The Correct Way](https://www.youtube.com/watch?v=cmDy80d2krk)
+- [Stacking Multiple Sessions in DSS - The Correct Way](https://www.youtube.com/watch?v=cmDy80d2krk) - Even though it's from year 2012, this video on stacking multiple imaging sessions is still relevant today.
 
 
 
@@ -104,9 +104,9 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 ### Planetarium
 
-- [Cartes du Ciel](https://www.ap-i.net/skychart/doku.php?id=en/start)
-- [KStars](https://kstars.kde.org)
-- [Stellarium (web)](https://stellarium-web.org)
+- [Cartes du Ciel](https://www.ap-i.net/skychart/doku.php?id=en/start) - Cross-platform and free sky charts.
+- [KStars](https://kstars.kde.org) - Part of the free Ekos imaging suite, this cross-platform planetarium will help you image the sky.
+- [Stellarium](https://stellarium.org) - Cross-platform and free planetarium with realistic 3D sky. It also has a [web-only alternative](https://stellarium-web.org/).
 
 ### Planning
 
@@ -125,9 +125,9 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 ## YouTube Channels
 
-- [AstroBackyard](https://www.youtube.com/c/AstroBackyard)
-- [Cuiv, The Lazy Geek](https://www.youtube.com/channel/UC65vvpQDX5rymeqrYt-Bb1g)
-- [Nebula Photos](https://www.youtube.com/channel/UCO_gBdHekc74feh0bWqKJ1Q)
+- [AstroBackyard](https://www.youtube.com/c/AstroBackyard) - Shoot nebulae, galaxies, and star clusters with Trevor Jones.
+- [Cuiv, The Lazy Geek](https://www.youtube.com/channel/UC65vvpQDX5rymeqrYt-Bb1g) - Let's talk astronomy and astrophotography! Tutorials, technical videos, and insights by Cuiv, The Lazy Geek.
+- [Nebula Photos](https://www.youtube.com/channel/UCO_gBdHekc74feh0bWqKJ1Q) - Tutorials and reviews related to astrophotography by Nico Carver.
 
 
 
@@ -157,6 +157,6 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 ## Community
 
 - [Astrobin](https://www.astrobin.com) - Social image hosting dedicated to astrophotography.
-- [Cloudy Nights](https://www.cloudynights.com)
-- [Stargazers Lounge](https://stargazerslounge.com)
+- [Cloudy Nights](https://www.cloudynights.com) - Arguably the largest community forums.
+- [Stargazers Lounge](https://stargazerslounge.com) - Small but active UK community forums.
 
