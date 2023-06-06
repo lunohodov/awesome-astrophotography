@@ -75,6 +75,7 @@ A curated list of resources related to astrophotography. Please read the [contri
 ### Acquisition
 
 - [APT](https://www.astrophotography.app) - The Swiss army knife for your astro imaging sessions.
+- [Ekos](https://indilib.org/about/ekos.html) - An advanced cross-platform (Windows, OSX, Linux) observatory control and automation tool.
 - [NINA](https://nighttime-imaging.eu) - Free and very powerful astrophotography imaging suite.
 - [Nebulosity](https://github.com/celstark/OpenNebulosity) - Open source, powerful, and easy to use astrophotography software.
 - [Sequence Generator Pro](https://www.sequencegeneratorpro.com) - The classic fully automated night sky imaging.
@@ -96,6 +97,7 @@ A curated list of resources related to astrophotography. Please read the [contri
 ### Planetarium
 
 - [Cartes du Ciel](https://www.ap-i.net/skychart/doku.php?id=en/start)
+- [KStars](https://kstars.kde.org)
 - [Stellarium (web)](https://stellarium-web.org)
 
 ### Planning
