@@ -41,7 +41,8 @@ A curated list of resources related to astrophotography. Please read the [contri
 
 ## Books
 
-- [Astrophotography is Easy!: Basics for Beginners (The Patrick Moore Practical Astronomy Series)](https://www.goodreads.com/book/show/56053741-astrophotography-is-easy)
+- [Astrophotography is Easy!: Basics for Beginners](https://www.goodreads.com/book/show/56053741-astrophotography-is-easy)
+- [Inside PixInsight](https://www.goodreads.com/book/show/42603255-inside-pixinsight)
 - [The Astrophotography Manual: A Practical and Scientific Approach to Deep Sky Imaging](https://www.goodreads.com/book/show/37301142-the-astrophotography-manual)
 - [The Deep-Sky Imaging Primer](https://www.goodreads.com/book/show/61296649-the-deep-sky-imaging-primer-third-edition)
 
