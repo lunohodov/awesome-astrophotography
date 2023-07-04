@@ -32,11 +32,11 @@ A curated list of resources related to astrophotography. Please read the [contri
 - [Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?](https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider) - Compares the two guiding options in details.
 - [Guide to Focal Reducers for Astronomy](https://agenaastro.com/articles/focal-reducers-guide.html) - How focal reducers work, what types are there, and how to use them.
 - [How to Set the Correct Back Focus](https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus) - An easy to follow guide on what back focus is and how to set it.
+- [Mastering Flat Frames: Gain matching](https://www.astroworldcreations.com/blog/understanding-flats-part-1-gain-matching) - This blog series by Willem Jan Drijfhout will take you on a deep dive into the topic of flat frames ([Part 2: Flat Panels compared](https://www.astroworldcreations.com/blog/understanding-flats-part-2-flat-panels-compared), and [Part 3: Bias, Flat-Darks and Conclusions](https://www.astroworldcreations.com/blog/understanding-flats-part3-conclusions)).
 - [Selecting a Guide Scope and Autoguiding Camera for Astrophotography](https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html)
 - [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/)
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCS vs. CMOS camera sensors.
 - [The best solution of 55mm back focal length](https://astronomy-imaging-camera.com/tutorials/best-back-focus-length-solutions-55mm/) - Guidance on how to reach the 55mm back focal length with ASI cameras.
-
 
 
 ## Books
