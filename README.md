@@ -25,7 +25,7 @@ A curated list of resources related to astrophotography. Please read the [contri
 ## Articles
 
 - [Autoguiding](https://astrobackyard.com/autoguiding/) - An introduction to auto-guiding.
-- [Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/guides/cameras/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
+- [Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [Cable Management Recommendations](https://pegasusastro.com/cable-management-recommendations/) - Some solid advice on cables in an astrophotography setup.
 - [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
 - [Drift Alignment by Robert Vice (D.A.R.V)](https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760) - Accurate alignment in just a matter of minutes.
