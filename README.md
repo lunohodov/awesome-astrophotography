@@ -133,6 +133,7 @@ A curated list of resources related to astrophotography. Please read the [contri
 - [IDAS filter comparison](https://www.cloudynights.com/topic/797739-idas-filter-comparison-test-report/?p=11487347) - CloudyNights forum member Jim Thompson tests and compares a large selection of IDAS brand filters. ([cached version](assets/docs/idas-test-report.pdf))
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php)
+- [Online Narrowband RGB Combination Preview Tool](https://www.bintel.com.au/narrowband-preview-tool/index.php) - This tool allows you to upload black and white source images (filtered eg. Ha, Sii, Oiii or R, G, B), then shows every possible permutation for the various combinations/palettes.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Rouzastro equipment reviews](https://rouzastro.com/reviews/) - A growing list of equipment reviews. The experiences and results may prove useful for those looking at new gear.
 
