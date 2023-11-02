@@ -1,4 +1,4 @@
-name: CI
+name: Linting
 
 on:
   push:
@@ -9,16 +9,6 @@ on:
       - main
 
 jobs:
-  link_checker:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.2.0
-        with:
-          fail: true
-
   awesome_lint:
     runs-on: ubuntu-latest
     steps:
