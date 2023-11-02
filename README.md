@@ -66,6 +66,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 - [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
+- [RGB Stars From Narrowband Data](https://aiastro.wordpress.com/2020/06/02/rgb-stars-from-narroband-data/) - Narrowband palettes such as SHO, HOO, etc. produce uncalibrated stars. One way to fix star color is to shoot also in RGB, then blend. In this article, Alberto Ibañez suggests another approach that uses the already acquired narrowband data to achieve the same.
 - [Stacking Multiple Sessions in DSS - The Correct Way](https://www.youtube.com/watch?v=cmDy80d2krk) - Even though it's from year 2012, this video on stacking multiple imaging sessions is still relevant today.
 
 
