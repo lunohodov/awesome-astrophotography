@@ -90,7 +90,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 ### Guiding
 
-- [MetaGuide](https://smallstarspot.com/metaguide/) - A free guiding software that uses novel centroid methods to reduce the impact of seeing. It also offers comprehensive collimation support than can be of great help for f/4 and faster systems.
+- [MetaGuide](https://smallstarspot.com/metaguide/) - A free guiding software that uses novel centroid methods to reduce the impact of seeing. It also offers comprehensive collimation support than can be of great help for f/4 and faster Newtonian/SCT systems.
 - [PHD2](https://openphdguiding.org) - Arguably THE guiding software. Free and open source.
 
 ### Image Processing
