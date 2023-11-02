@@ -26,6 +26,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 ## Articles
 
+- [An Astrophotographer's Gentle Introduction To Noise](https://skyandtelescope.org/astronomy-blogs/imaging-foundations-richard-wright/astrophotography-gentle-introduction-noise/) - An easy to understand introduction to various sources of noise in astrophotography and how to eliminate them.
 - [Autoguiding](https://astrobackyard.com/autoguiding/) - An introduction to auto-guiding.
 - [Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [Cable Management Recommendations](https://pegasusastro.com/cable-management-recommendations/) - Some solid advice on cables in an astrophotography setup.
