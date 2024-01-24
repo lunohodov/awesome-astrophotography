@@ -146,6 +146,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Online Narrowband RGB Combination Preview Tool](https://www.bintel.com.au/narrowband-preview-tool/index.php) - This tool allows you to upload black and white source images (filtered eg. Ha, Sii, Oiii or R, G, B), then shows every possible permutation for the various combinations/palettes.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Rouzastro equipment reviews](https://rouzastro.com/reviews/) - A growing list of equipment reviews. The experiences and results may prove useful for those looking at new gear.
+- [Sharpless](http://www.sharplesscatalog.com/sharpless.aspx) - Images of all objects from the Sharpless catalogue each with capture and background information.
 
 
 
