@@ -141,6 +141,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
 - [IDAS filter comparison](https://www.cloudynights.com/topic/797739-idas-filter-comparison-test-report/?p=11487347) - CloudyNights forum member Jim Thompson tests and compares a large selection of IDAS brand filters. ([cached version](assets/docs/idas-test-report.pdf))
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
+- [Messier](https://www.messier-objects.com/) - All objects from the Messier catalogue with lots of background information and images.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php) - A list of Nikon models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
 - [Online Narrowband RGB Combination Preview Tool](https://www.bintel.com.au/narrowband-preview-tool/index.php) - This tool allows you to upload black and white source images (filtered eg. Ha, Sii, Oiii or R, G, B), then shows every possible permutation for the various combinations/palettes.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
