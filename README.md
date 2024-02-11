@@ -129,7 +129,10 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 - [AstroBackyard](https://www.youtube.com/c/AstroBackyard) - Shoot nebulae, galaxies, and star clusters with Trevor Jones.
 - [Cuiv, The Lazy Geek](https://www.youtube.com/channel/UC65vvpQDX5rymeqrYt-Bb1g) - Let's talk astronomy and astrophotography! Tutorials, technical videos, and insights by Cuiv, The Lazy Geek.
+- [James Lamb](https://www.youtube.com/@Aero19612) - With his pleasant and down-to-earth narrative, James teaches astrophotography one pixel at a time.
+- [Lukomatico](https://www.youtube.com/@lukomatico) - Experiments, comparisons, and processing with PixInsight. Lukomatico has it all.
 - [Nebula Photos](https://www.youtube.com/channel/UCO_gBdHekc74feh0bWqKJ1Q) - Tutorials and reviews related to astrophotography by Nico Carver.
+- [Patriot Astro](https://www.youtube.com/@PatriotAstro) - Everything N.I.N.A. Complete details with examples.
 
 
 
