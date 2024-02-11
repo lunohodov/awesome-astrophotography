@@ -30,7 +30,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Autoguiding](https://astrobackyard.com/autoguiding/) - An introduction to auto-guiding.
 - [Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [Cable Management Recommendations](https://pegasusastro.com/cable-management-recommendations/) - Some solid advice on cables in an astrophotography setup.
-- [DeepSkyStacker vs PixInsight](https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
+- [DeepSkyStacker vs PixInsight](https://web.archive.org/web/20230408140244/https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
 - [Drift Alignment by Robert Vice (D.A.R.V)](https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760) - Accurate alignment in just a matter of minutes.
 - [Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?](https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider) - Compares the two guiding options in details.
 - [Guide to Focal Reducers for Astronomy](https://agenaastro.com/articles/focal-reducers-guide.html) - How focal reducers work, what types are there, and how to use them.
@@ -66,7 +66,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
 - [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of "The Deep-Sky Imaging Primer", has you covered.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
-- [Light Vortex Astronomy's PixInsight tutorials](https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
+- [Light Vortex Astronomy's PixInsight tutorials](https://web.archive.org/web/20230509214425/https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
 - [RGB Stars From Narrowband Data](https://aiastro.wordpress.com/2020/06/02/rgb-stars-from-narroband-data/) - Narrowband palettes such as SHO, HOO, etc. produce uncalibrated stars. One way to fix star color is to shoot also in RGB, then blend. In this article, Alberto Ibañez suggests another approach that uses the already acquired narrowband data to achieve the same.
 - [Stacking Multiple Sessions in DSS - The Correct Way](https://www.youtube.com/watch?v=cmDy80d2krk) - Even though it's from year 2012, this video on stacking multiple imaging sessions is still relevant today.
