@@ -115,6 +115,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [12 Deep Sky Objects to Photograph](https://www.nebulaphotos.com/doc/brightLargeDsos.pdf) - A beginner friendly list of objects to photograph with a DSLR camera.
 - [Astronomy Tools](https://astronomy.tools/) - A tools suite with various calculators, field of view simulation, star chart, etc.
 - [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) - Plan your framing.
+- [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 - [lightpollutionmap.info](https://www.lightpollutionmap.info) - This website uses satellite data to show light pollution related content.
