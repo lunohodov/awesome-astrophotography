@@ -76,6 +76,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 ## Presentations
 
 - [Beauty and the Beholder](https://www.youtube.com/watch?v=SPFsoO0ZWeg) - On the hidden stories in astro-images and how to tell them. A truly inspirational message from famous astrophotographer Adam Block.
+- [Deep Sky Astrophotography With CMOS Cameras by Dr Robin Glover](https://www.youtube.com/watch?v=3RH93UvP358) - How long should a sub-exposure be? How much to cool? What gain to use? Dr. Robin Glover of SharpCap talks us through the science behind deep sky astrophotography using modern CMOS imaging sensors.
 
 
 
