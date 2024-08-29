@@ -89,7 +89,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 ### Acquisition
 
 - [APT](https://www.astrophotography.app) - The Swiss army knife for your astro imaging sessions.
-- [Ekos](https://indilib.org/about/ekos.html) - An advanced cross-platform (Windows, macOS, Linux) observatory control and automation tool.
+- [Ekos](https://indilib.org) - An advanced cross-platform (Windows, macOS, Linux) observatory control and automation tool.
 - [NINA](https://nighttime-imaging.eu) - Free and very powerful astrophotography imaging suite.
 - [Nebulosity](https://github.com/celstark/OpenNebulosity) - Open source, powerful, and easy to use astrophotography software.
 - [Sequence Generator Pro](https://www.sequencegeneratorpro.com) - The classic fully automated night sky imaging.
