@@ -30,6 +30,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Autoguiding](https://astrobackyard.com/autoguiding/) - An introduction to auto-guiding.
 - [Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [Cable Management Recommendations](https://pegasusastro.com/cable-management-recommendations/) - Some solid advice on cables in an astrophotography setup.
+- [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) - Another interactive guide by Bartosz Ciechanowski, this time about cameras and lenses. *A must-read* for anyone interested in telescopes and photography.
 - [DeepSkyStacker vs PixInsight](https://web.archive.org/web/20230408140244/https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
 - [Drift Alignment by Robert Vice (D.A.R.V)](https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760) - Accurate alignment in just a matter of minutes.
 - [Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?](https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider) - Compares the two guiding options in details.
