@@ -132,6 +132,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 ### Other
 
 - [FocusMax](https://ccdware.com/focusmax_overview/) - Accurate, automated and repeatable focusing.
+- [Modulation Transfer Function and Image Sampling Analyzer](https://www.rc-astro.com/mtf-analyzer/) - This online tool provides insight into the capabilities of a given imaging system. It computes key values such as plate scale, stellar full-width at half-maximum (FWHM), diffraction limit and presents a graph of the system's modulation transfer function (MTF). Very useful for evaluating the performance of a telescope and camera combination.
 
 
 
