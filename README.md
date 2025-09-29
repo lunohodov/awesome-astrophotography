@@ -126,7 +126,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Astronomy Tools](https://astronomy.tools/) - A tools suite with various calculators, field of view simulation, star chart, etc.
 - [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) - Plan your framing.
 - [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
-- [Nova DSO Tracker](https://github.com/mrantonSG/nova_DSO_tracker) - *A free and open source deep sky object tracker and observation planner.*
+- [Nova DSO Tracker](https://github.com/mrantonSG/nova_DSO_tracker) - A free and open source, self-hosted web application for astrophotography planning. Features both single and multi-user modes, making it suitable for individuals or entire astronomy clubs.
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 - [lightpollutionmap.info](https://www.lightpollutionmap.info) - This website uses satellite data to show light pollution related content.
