@@ -124,7 +124,6 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 - [12 Deep Sky Objects to Photograph](https://www.nebulaphotos.com/doc/brightLargeDsos.pdf) - A beginner friendly list of objects to photograph with a DSLR camera.
 - [Astronomy Tools](https://astronomy.tools/) - A tools suite with various calculators, field of view simulation, star chart, etc.
-- [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) - Plan your framing.
 - [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
 - [Nova DSO Tracker](https://github.com/mrantonSG/nova_DSO_tracker) - A free and open source, self-hosted web application for astrophotography planning. Features both single and multi-user modes, making it suitable for individuals or entire astronomy clubs.
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). It helps you plan your photos ahead of time so you’re always at the right place at the right time to capture the best photo possible.
