@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 3 * * *'
+    - cron: '0 0 * * 0'
 
 jobs:
   link_checker:
