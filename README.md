@@ -151,7 +151,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 ## Reference
 
-- [Astrobin's Heatmap of the Sky](https://www.astrobin.com/full/e4clel/0/) - An inspiring map showing the parts of the sky that the community on Astrobin photographs the most (or least).
+- [Astrobin's Heatmap of the Sky](https://app.astrobin.com/i/e4clel) - An inspiring map showing the parts of the sky that the community on Astrobin photographs the most (or least).
 - [Calibration Frames Cheat-Sheet](https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view) ([cached version](assets/docs/calibration-frames-cheatsheet.pdf))
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php) - A list of Canon EOS models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
 - [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
@@ -165,7 +165,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Processing Methods Under PixInsight](https://astro-photographie.fr/traitement_pixinsight.html) - An extensive collection of workflow diagrams for image processing in PixInsight. It covers both one-shot and monochrome cameras. A great resource for beginners and advanced users alike.
 - [Rouzastro equipment reviews](https://rouzastro.com/reviews/) - A growing list of equipment reviews. The experiences and results may prove useful for those looking at new gear.
 - [Sharpless](http://www.sharplesscatalog.com/sharpless.aspx) - Images of all objects from the Sharpless catalogue each with capture and background information.
-- [The 750 Best Deep Sky Objects (Reachable from the Northern Hemisphere)](https://www.astrobin.com/8cawy6/) - A simplified tool to help astrophotographers easily find targets on any night of the year.
+- [The 750 Best Deep Sky Objects (Reachable from the Northern Hemisphere)](https://app.astrobin.com/i/8cawy6) - A simplified tool to help astrophotographers easily find targets on any night of the year.
 
 
 
