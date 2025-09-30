@@ -69,7 +69,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Chris White's Guide to Fixing Tilt and Spacing](https://overcastobservatory.com/products/guide-to-tilt-and-spacing-analysis-download-link-in-listing) - Annoying and hard to fix, tilt and spacing can ruin your imaging. This guide will help you eliminate them.
 - [Filters for Deep Sky Astrophotography](https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo) - A video series that kicks off with a gentle introduction to filters and closes down comparing the most popular ones.
 - [Harry's PixInsight tutorials](https://web.archive.org/web/20220115193835/http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials.
-- [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of "The Deep-Sky Imaging Primer", has you covered.
+- [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of “The Deep-Sky Imaging Primer”, has you covered.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 - [Independent Starless Processing](https://www.nightphotons.com/guides/star-addition) - This article details a simple and effective method to separate, process, and later reintroduce stars into an image without artifacts. It also discusses how to get more naturally looking stars from a narrowband dataset.
 - [Light Vortex Astronomy's PixInsight tutorials](https://web.archive.org/web/20230509214425/https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
@@ -127,7 +127,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) - Plan your framing.
 - [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
 - [Nova DSO Tracker](https://github.com/mrantonSG/nova_DSO_tracker) - A free and open source, self-hosted web application for astrophotography planning. Features both single and multi-user modes, making it suitable for individuals or entire astronomy clubs.
-- [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
+- [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). It helps you plan your photos ahead of time so you’re always at the right place at the right time to capture the best photo possible.
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 - [lightpollutionmap.info](https://www.lightpollutionmap.info) - This website uses satellite data to show light pollution related content.
 
