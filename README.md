@@ -114,6 +114,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [BlurXTerminator](https://www.rc-astro.com/resources/BlurXTerminator/) - An AI based deconvolution tool. Currently only available as a process module plug-in for PixInsight.
 - [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) - Registering, stacking, and simple post-processing.
 - [Eise](https://eise.app) - Browser-based planetary stacker with no installation required.
+- [PIPP](https://sites.google.com/site/astropipp/) - Planetary Imaging PreProcessor for preparing captures before stacking.
 - [PixInsight](https://pixinsight.com) - Advanced image processing software platform. Very powerful but the user interface is intimidating.
 - [Planetary System Stacker](https://github.com/Rolf-Hempel/PlanetarySystemStacker) - Cross-platform planetary stacker with alignment point tracking and quality-weighted stacking.
 - [Registax](https://www.astronomie.be/registax/) - Planetary image processing with wavelet sharpening and frame stacking.
