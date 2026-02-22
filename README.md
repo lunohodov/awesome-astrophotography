@@ -109,6 +109,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 ### Image Processing
 
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Advanced and very powerful software for post-processing.
+- [AutoStakkert!](https://www.autostakkert.com) - Planetary stacking software using alignment points for local motion correction.
 - [BlurXTerminator](https://www.rc-astro.com/resources/BlurXTerminator/) - An AI based deconvolution tool. Currently only available as a process module plug-in for PixInsight.
 - [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) - Registering, stacking, and simple post-processing.
 - [PixInsight](https://pixinsight.com) - Advanced image processing software platform. Very powerful but the user interface is intimidating.
