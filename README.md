@@ -120,6 +120,9 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Siril](https://siril.org) - Registering, stacking, and post-processing, specially tailored for noise reduction and improving the signal-to-noise ratio.
 - [StarNet++](https://sourceforge.net/projects/starnet/) - A simple program that allows the removal of the stars from astrophotography images.
 
+### Detection & Analysis
+- [SpacePixels](https://github.com/ppissias/SpacePixels) - Desktop and command-line FITS workflow for detecting moving and transient objects in aligned astronomical image sequences, aimed at asteroid, comet, satellite, and transient detection.
+  
 ### Planetarium
 
 - [Cartes du Ciel](https://www.ap-i.net/skychart/doku.php?id=en/start) - Cross-platform and free sky charts.
