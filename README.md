@@ -133,6 +133,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
 - [Nova DSO Tracker](https://github.com/mrantonSG/nova_DSO_tracker) - A free and open source, self-hosted web application for astrophotography planning. Features both single and multi-user modes, making it suitable for individuals or entire astronomy clubs.
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). It helps you plan your photos ahead of time so you’re always at the right place at the right time to capture the best photo possible.
+- [ShutterMath](https://shuttermath.com) - Free photography calculators for star trails (500/NPF rule), astro pixel scale, and more, accurate to your exact camera sensor. No sign-up, no watermarks.
 - [SkyCompendium](https://skycompendium-online.web.app/) - A comprehensive web tool that helps astrophotographers plan their sessions using data from Gary Imm's renowned Deep Sky Compendium featuring over 3000 deep sky objects spanning 26 cross-referenced catalogues.
 - [SolarHam](https://www.solarham.com) - Real time Space Weather news and solar and geomagnetic activity data from various sources. All in one location for easy navigation. Indispensable for planning solar imaging sessions.
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
