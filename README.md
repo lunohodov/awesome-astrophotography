@@ -100,6 +100,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [NINA](https://nighttime-imaging.eu) - Free and very powerful astrophotography imaging suite.
 - [Nebulosity](https://github.com/celstark/OpenNebulosity) - Open source, powerful, and easy to use astrophotography software.
 - [Sequence Generator Pro](https://www.sequencegeneratorpro.com) - The classic fully automated night sky imaging.
+- [Sky For Mac](https://giulioroggero.github.io/skyformac-website) - Native macOS app for live capture and control of ZWO ASI cameras, iPhones, and webcams, with live stacking, planetary/lucky imaging, and calibration tools. Free and open source.
 - [Voyager](https://software.starkeeper.it) - User-friendly system integration and astrophotography automation software.
 
 ### Guiding
