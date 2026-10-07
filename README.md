@@ -136,6 +136,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). It helps you plan your photos ahead of time so you’re always at the right place at the right time to capture the best photo possible.
 - [SkyCompendium](https://skycompendium-online.web.app/) - A comprehensive web tool that helps astrophotographers plan their sessions using data from Gary Imm's renowned Deep Sky Compendium featuring over 3000 deep sky objects spanning 26 cross-referenced catalogues.
 - [SolarHam](https://www.solarham.com) - Real time Space Weather news and solar and geomagnetic activity data from various sources. All in one location for easy navigation. Indispensable for planning solar imaging sessions.
+- [Star Ninja](https://stars.2pm.ninja/?ref=awesome) - Free web map for planning a stargazing outing: light-pollution darkness bands, cloud forecast and moonless hours for any spot, with the distance from a start point.
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 - [lightpollutionmap.info](https://www.lightpollutionmap.info) - This website uses satellite data to show light pollution related content.
 
