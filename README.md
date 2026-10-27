@@ -114,6 +114,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [BlurXTerminator](https://www.rc-astro.com/resources/BlurXTerminator/) - An AI based deconvolution tool. Currently only available as a process module plug-in for PixInsight.
 - [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) - Registering, stacking, and simple post-processing.
 - [Eise](https://eise.app) - Browser-based planetary stacker with no installation required.
+- [PixInsight Connector](https://github.com/mxcoppell/pixinsight-connector) - MCP connector that lets any AI agent operate PixInsight: about 80 PixInsight operations as tools, for chat sessions and the skills that guide them. Companion agent [skills](https://github.com/mxcoppell/pixinsight-connector-skills) are also available.
 - [PixInsight](https://pixinsight.com) - Advanced image processing software platform. Very powerful but the user interface is intimidating.
 - [Planetary System Stacker](https://github.com/Rolf-Hempel/PlanetarySystemStacker) - Cross-platform planetary stacker with alignment point tracking and quality-weighted stacking.
 - [Registax](https://www.astronomie.be/registax/) - Planetary image processing with wavelet sharpening and frame stacking.
