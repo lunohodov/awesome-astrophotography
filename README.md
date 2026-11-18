@@ -130,6 +130,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 ### Planning
 
 - [12 Deep Sky Objects to Photograph](https://www.nebulaphotos.com/doc/brightLargeDsos.pdf) - A beginner friendly list of objects to photograph with a DSLR camera.
+- [Astroletra Eclipse 2027 Planner](https://astroletra.com/eclipses/eclipse-solar-total-2-agosto-2027/espana/) - Free planner for the total solar eclipse of 2 August 2027 in Spain, with the start time and duration of totality for every municipality (in Spanish).
 - [Astronomy Tools](https://astronomy.tools/) - A tools suite with various calculators, field of view simulation, star chart, etc.
 - [Heliora](https://heliora.app/) - Free web planner for Sun, Moon, and eclipse photography, with a 3D sky view against the terrain horizon at your chosen location.
 - [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
