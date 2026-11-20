@@ -147,6 +147,7 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [FocusMax](https://ccdware.com/focusmax_overview/) - Accurate, automated and repeatable focusing.
 - [Modulation Transfer Function and Image Sampling Analyzer](https://www.rc-astro.com/mtf-analyzer/) - This online tool provides insight into the capabilities of a given imaging system. It computes key values such as plate scale, stellar full-width at half-maximum (FWHM), diffraction limit and presents a graph of the system's modulation transfer function (MTF). Very useful for evaluating the performance of a telescope and camera combination.
 - [SpacePixels](https://github.com/ppissias/SpacePixels) - Desktop and command-line FITS workflow for detecting moving and transient objects in aligned astronomical image sequences, aimed at asteroid, comet, satellite, and transient detection.
+- [TelescopeYoke Companion](https://ryan-clinton.github.io/telescopeyoke/nina-phd2-night-analysis.html) - Free, open source and read-only. Reads the frames your capture program saved and the NINA and PHD2 logs, and says where a night's imaging time went: cloud, guiding, focus or gaps.
 
 
 
